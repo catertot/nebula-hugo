@@ -14,46 +14,59 @@ toc: true
 
 ## Overview
 
-### Solid
+We use our primary brand color Sol sitewide to help users quickly identify available actions.
 
-- Use solid buttons for primary actions on the page.
-- Uses solid sol background to draw user's eye.
-- Recommendation: Only use one primary action per major page section.
+### Solid / Primary
+
+Used for primary actions on the page. Uses solid sol background to draw user's eye.
+
+We recommend only using one solid/primary action per major page section.
 
 #### Live Example
+*Note: This represents a future design that we are working to implement.*
 {{< codepen id="fa4425d05fb8cf612144291a5d598a6b" >}}
 
----
 
-### Outline
+### Outline / Secondary
 
-- Used for supporting or non-primary page actions.
-- Uses sol border and transparent background.
+Used for supporting or non-primary page actions (e.g., additional resources, related products)
+
 
 #### Live example
+*Note: This represents a future design that we are working to implement.*
 {{< codepen id="b1200436c9a17bc171d82f0f04417cc0" >}}
 
----
 
-### Link Style
+<!-- ### Link Style -->
 
-Do we want this? Idk
+<!-- Do we want this? Idk -->
 
----
 
-### Full Width
+
+<!-- ### Full Width
 
 Displays at full width of its container.
 
-[example here]
+[example here] -->
 
----
 
-### Accessibility
+<!-- ### Accessibility
+[under construction] -->
 
 ## Guidelines
 
-Here are some guidelines for Buttons
+### Use Buttons When
+- Triggering an action
+- Enabling a “final” action (e.g., Check Out, Add to Cart)
+- Moving forward or backward through a flow
+- Submitting a form or requested information
+- Confirming completion of a flow or cancelling out of it
+
+### Don't Use Buttons When
+- Taking users to a different section of the same page. Instead, use Links
+
+
+### Do / Don't
 
 {{< columns >}}
 {{< guidelines-correct >}}
@@ -63,8 +76,8 @@ Make sure buttons are visible against backgrounds.
 {{< guidelines-end >}}
 {{< column >}}
 {{< guidelines-incorrect >}}
-[Add Screenshot]
 
+{{< img-test src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" >}}
 Don't use an outline button on a busy background.
 {{< guidelines-end >}}
 {{< endcolumns >}}
