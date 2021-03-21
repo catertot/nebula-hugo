@@ -43,5 +43,5 @@ tags
 # Coc configuration directory
 .vim
 
-themes/doks
+themes
 public

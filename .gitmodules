@@ -1,7 +1,7 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:catertot/catertot.github.io.git
-	branch = main
-[submodule "themes/doks"]
-	path = themes/doks
-	url = https://github.com/h-enk/doks.git
+# [submodule "public"]
+# 	path = public
+# 	url = git@github.com:catertot/catertot.github.io.git
+# 	branch = main
+# [submodule "themes/doks"]
+# 	path = themes/doks
+# 	url = https://github.com/h-enk/doks.git
