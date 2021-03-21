@@ -72,12 +72,11 @@ Displays at full width of its container.
 {{< guidelines-correct >}}
 [Add Screenshot]
 
-Make sure buttons are visible against backgrounds.
+Do make sure buttons are visible against backgrounds.
 {{< guidelines-end >}}
 {{< column >}}
 {{< guidelines-incorrect >}}
-
-{{< img-test src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" >}}
+{{< img-test src="/images/components/buttons/dont-busy-bg.png" class="guideline-img">}}
 Don't use an outline button on a busy background.
 {{< guidelines-end >}}
 {{< endcolumns >}}
