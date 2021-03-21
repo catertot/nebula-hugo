@@ -24,7 +24,7 @@ We recommend only using one solid/primary action per major page section.
 
 #### Live Example
 *Note: This represents a future design that we are working to implement.*
-{{< codepen id="fa4425d05fb8cf612144291a5d598a6b" >}}
+{{< codepen id="wvoXQEq" >}}
 
 
 ### Outline / Secondary
@@ -34,7 +34,7 @@ Used for supporting or non-primary page actions (e.g., additional resources, rel
 
 #### Live example
 *Note: This represents a future design that we are working to implement.*
-{{< codepen id="b1200436c9a17bc171d82f0f04417cc0" >}}
+{{< codepen id="NWbmVPW" >}}
 
 
 <!-- ### Link Style -->
