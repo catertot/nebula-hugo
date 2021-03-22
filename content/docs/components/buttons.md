@@ -70,14 +70,27 @@ Displays at full width of its container.
 
 {{< columns >}}
 {{< guidelines-correct >}}
-[Add Screenshot]
-
+{{< img-simple src="/images/components/buttons/do-bg-gradient.png" class="guideline-img">}}
 Do make sure buttons are visible against backgrounds.
 {{< guidelines-end >}}
 {{< column >}}
 {{< guidelines-incorrect >}}
-{{< img-test src="/images/components/buttons/dont-busy-bg.png" class="guideline-img">}}
+{{< img-simple src="/images/components/buttons/dont-busy-bg.png" class="guideline-img">}}
 Don't use an outline button on a busy background.
+{{< guidelines-end >}}
+{{< endcolumns >}}
+
+{{< columns >}}
+{{< guidelines-correct >}}
+[Add Screenshot]
+
+Do check contrast between button and background.
+{{< guidelines-end >}}
+{{< column >}}
+{{< guidelines-incorrect >}}
+[Add Screenshot]
+
+Don't use a button against a sol background.
 {{< guidelines-end >}}
 {{< endcolumns >}}
 
